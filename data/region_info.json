@@ -1813,7 +1813,7 @@
     ]
   },
   "ap-southeast-4": {
-    "count": 112,
+    "count": 113,
     "serviceNames": [
       "Amazon Route 53",
       "Amazon Managed Workflows for Apache Airflow",
@@ -1877,6 +1877,7 @@
       "AWS Global Accelerator",
       "AWS Fargate",
       "AWS Elemental MediaPackage",
+      "Amazon Bedrock",
       "AWS Elastic Disaster Recovery (DRS)",
       "Amazon EventBridge",
       "AWS Private Certificate Authority",
@@ -2034,7 +2035,7 @@
     ]
   },
   "ap-southeast-7": {
-    "count": 90,
+    "count": 91,
     "serviceNames": [
       "Amazon Route 53",
       "AWS DataSync",
@@ -2093,6 +2094,7 @@
       "Amazon Simple Workflow Service (SWF)",
       "AWS Batch",
       "Amazon Elastic MapReduce (EMR)",
+      "AWS Transfer Family",
       "AWS Marketplace",
       "AWS Application Migration Service (MGN)",
       "EC2 Image Builder",
