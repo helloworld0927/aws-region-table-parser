@@ -1,5 +1,5 @@
 {
-  "count": 128,
+  "count": 130,
   "serviceNames": [
     "AWS AppConfig",
     "AWS AppSync",
@@ -25,6 +25,7 @@
     "AWS Database Migration Service (AWS DMS)",
     "AWS Direct Connect",
     "AWS Directory Service",
+    "AWS Elastic Beanstalk",
     "AWS Elastic Disaster Recovery",
     "AWS Elemental MediaConnect",
     "AWS Elemental MediaLive",
@@ -122,6 +123,7 @@
     "Amazon Simple Storage Service (S3)",
     "Amazon Simple Workflow Service (SWF)",
     "Amazon VPC Lattice",
+    "Amazon Verified Permissions",
     "Amazon Virtual Private Cloud (VPC)",
     "Elastic Load Balancing (ELB)",
     "NAT Gateway",

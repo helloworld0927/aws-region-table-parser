@@ -1,5 +1,5 @@
 {
-  "count": 81,
+  "count": 83,
   "serviceNames": [
     "AWS AppConfig",
     "AWS Application Auto Scaling",
@@ -16,6 +16,7 @@
     "AWS Database Migration Service (AWS DMS)",
     "AWS Direct Connect",
     "AWS Directory Service",
+    "AWS Elastic Beanstalk",
     "AWS End User Messaging",
     "AWS Identity and Access Management (IAM)",
     "AWS Identity and Access Management (IAM) Access Analyzer",
@@ -75,6 +76,7 @@
     "Amazon Simple Queue Service (SQS)",
     "Amazon Simple Storage Service (S3)",
     "Amazon Simple Workflow Service (SWF)",
+    "Amazon Verified Permissions",
     "Amazon Virtual Private Cloud (VPC)",
     "Elastic Load Balancing (ELB)",
     "NAT Gateway",
