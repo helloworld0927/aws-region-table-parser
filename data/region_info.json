@@ -587,7 +587,7 @@
     ]
   },
   "ap-northeast-2": {
-    "count": 171,
+    "count": 172,
     "serviceNames": [
       "AWS Amplify",
       "AWS AppConfig",
@@ -673,6 +673,7 @@
       "Amazon Aurora MySQL",
       "Amazon Aurora PostgreSQL",
       "Amazon Bedrock",
+      "Amazon Bedrock AgentCore",
       "Amazon Chime SDK",
       "Amazon CloudFront",
       "Amazon CloudWatch",
@@ -2191,7 +2192,7 @@
     ]
   },
   "ca-central-1": {
-    "count": 171,
+    "count": 172,
     "serviceNames": [
       "AWS Amplify",
       "AWS AppConfig",
@@ -2277,6 +2278,7 @@
       "Amazon Aurora MySQL",
       "Amazon Aurora PostgreSQL",
       "Amazon Bedrock",
+      "Amazon Bedrock AgentCore",
       "Amazon Chime SDK",
       "Amazon CloudFront",
       "Amazon CloudWatch",
@@ -2802,7 +2804,7 @@
     ]
   },
   "eu-north-1": {
-    "count": 158,
+    "count": 159,
     "serviceNames": [
       "AWS Amplify",
       "AWS AppConfig",
@@ -2885,6 +2887,7 @@
       "Amazon Aurora MySQL",
       "Amazon Aurora PostgreSQL",
       "Amazon Bedrock",
+      "Amazon Bedrock AgentCore",
       "Amazon Braket",
       "Amazon Chime SDK",
       "Amazon CloudFront",
@@ -3436,7 +3439,7 @@
     ]
   },
   "eu-west-2": {
-    "count": 177,
+    "count": 178,
     "serviceNames": [
       "AWS Amplify",
       "AWS App Runner",
@@ -3524,6 +3527,7 @@
       "Amazon Aurora MySQL",
       "Amazon Aurora PostgreSQL",
       "Amazon Bedrock",
+      "Amazon Bedrock AgentCore",
       "Amazon Braket",
       "Amazon Chime SDK",
       "Amazon CloudFront",
@@ -3618,7 +3622,7 @@
     ]
   },
   "eu-west-3": {
-    "count": 161,
+    "count": 162,
     "serviceNames": [
       "AWS Amplify",
       "AWS App Runner",
@@ -3701,6 +3705,7 @@
       "Amazon Aurora MySQL",
       "Amazon Aurora PostgreSQL",
       "Amazon Bedrock",
+      "Amazon Bedrock AgentCore",
       "Amazon Chime SDK",
       "Amazon CloudFront",
       "Amazon CloudWatch",
@@ -3784,7 +3789,7 @@
     ]
   },
   "eusc-de-east-1": {
-    "count": 87,
+    "count": 89,
     "serviceNames": [
       "AWS AppConfig",
       "AWS Application Auto Scaling",
@@ -3813,6 +3818,7 @@
       "AWS Resource Access Manager (RAM)",
       "AWS Resource Groups",
       "AWS Secrets Manager",
+      "AWS Security Hub",
       "AWS Security Token Service (STS)",
       "AWS Shield",
       "AWS Signer",
@@ -3872,6 +3878,7 @@
       "NAT Gateway",
       "Route 53 Resolver Endpoints",
       "Route53 EC2 DNS",
+      "Security Hub CSPM",
       "Service Quotas"
     ]
   },
@@ -4412,7 +4419,7 @@
     ]
   },
   "sa-east-1": {
-    "count": 156,
+    "count": 157,
     "serviceNames": [
       "AWS Amplify",
       "AWS AppConfig",
@@ -4493,6 +4500,7 @@
       "Amazon Aurora MySQL",
       "Amazon Aurora PostgreSQL",
       "Amazon Bedrock",
+      "Amazon Bedrock AgentCore",
       "Amazon Chime SDK",
       "Amazon CloudFront",
       "Amazon CloudWatch",
