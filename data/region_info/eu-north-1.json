@@ -1,5 +1,5 @@
 {
-  "count": 160,
+  "count": 161,
   "serviceNames": [
     "AD Connector",
     "AWS Amplify",
@@ -10,6 +10,7 @@
     "AWS Backup",
     "AWS Batch",
     "AWS Certificate Manager (ACM)",
+    "AWS Client VPN",
     "AWS Cloud Map",
     "AWS Cloud WAN",
     "AWS CloudFormation",

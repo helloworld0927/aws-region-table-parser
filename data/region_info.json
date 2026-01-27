@@ -1,6 +1,6 @@
 {
   "af-south-1": {
-    "count": 147,
+    "count": 148,
     "serviceNames": [
       "AD Connector",
       "AWS AppConfig",
@@ -10,6 +10,7 @@
       "AWS Backup",
       "AWS Batch",
       "AWS Certificate Manager (ACM)",
+      "AWS Client VPN",
       "AWS Cloud Map",
       "AWS Cloud WAN",
       "AWS CloudFormation",
@@ -1430,7 +1431,7 @@
     ]
   },
   "ap-southeast-2": {
-    "count": 180,
+    "count": 181,
     "serviceNames": [
       "AD Connector",
       "AWS Amplify",
@@ -1443,6 +1444,7 @@
       "AWS Backup",
       "AWS Batch",
       "AWS Certificate Manager (ACM)",
+      "AWS Client VPN",
       "AWS Cloud Map",
       "AWS Cloud WAN",
       "AWS CloudFormation",
@@ -2123,7 +2125,7 @@
     ]
   },
   "ap-southeast-7": {
-    "count": 116,
+    "count": 117,
     "serviceNames": [
       "AD Connector",
       "AWS AppConfig",
@@ -2133,6 +2135,7 @@
       "AWS Backup",
       "AWS Batch",
       "AWS Certificate Manager (ACM)",
+      "AWS Client VPN",
       "AWS Cloud Map",
       "AWS Cloud WAN",
       "AWS CloudFormation",
@@ -2869,7 +2872,7 @@
     ]
   },
   "eu-north-1": {
-    "count": 160,
+    "count": 161,
     "serviceNames": [
       "AD Connector",
       "AWS Amplify",
@@ -2880,6 +2883,7 @@
       "AWS Backup",
       "AWS Batch",
       "AWS Certificate Manager (ACM)",
+      "AWS Client VPN",
       "AWS Cloud Map",
       "AWS Cloud WAN",
       "AWS CloudFormation",
@@ -3326,7 +3330,7 @@
     ]
   },
   "eu-west-1": {
-    "count": 181,
+    "count": 182,
     "serviceNames": [
       "AD Connector",
       "AWS Amplify",
@@ -3340,6 +3344,7 @@
       "AWS Backup",
       "AWS Batch",
       "AWS Certificate Manager (ACM)",
+      "AWS Client VPN",
       "AWS Cloud Map",
       "AWS Cloud WAN",
       "AWS CloudFormation",
@@ -4527,7 +4532,7 @@
     ]
   },
   "sa-east-1": {
-    "count": 158,
+    "count": 159,
     "serviceNames": [
       "AD Connector",
       "AWS Amplify",
@@ -4538,6 +4543,7 @@
       "AWS Backup",
       "AWS Batch",
       "AWS Certificate Manager (ACM)",
+      "AWS Client VPN",
       "AWS Cloud Map",
       "AWS CloudFormation",
       "AWS CloudHSM",
@@ -4883,7 +4889,7 @@
     ]
   },
   "us-east-2": {
-    "count": 178,
+    "count": 179,
     "serviceNames": [
       "AD Connector",
       "AWS Amplify",
@@ -4897,6 +4903,7 @@
       "AWS Backup",
       "AWS Batch",
       "AWS Certificate Manager (ACM)",
+      "AWS Client VPN",
       "AWS Cloud Map",
       "AWS Cloud WAN",
       "AWS CloudFormation",
