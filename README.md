@@ -11,8 +11,8 @@ This project is intended to provide a [human readable MARKDOWN](https://github.c
 | ------ | -------- | -------- | 
 | [us-east-1](./data/region_info/us-east-1.json) | US East (N. Virginia) | 195 |
 | [us-west-2](./data/region_info/us-west-2.json) | US West (Oregon) | 192 |
-| [eu-central-1](./data/region_info/eu-central-1.json) | Europe (Frankfurt) | 190 |
 | [ap-southeast-2](./data/region_info/ap-southeast-2.json) | Asia Pacific (Sydney) | 190 |
+| [eu-central-1](./data/region_info/eu-central-1.json) | Europe (Frankfurt) | 190 |
 | [eu-west-1](./data/region_info/eu-west-1.json) | Europe (Ireland) | 189 |
 | [ap-southeast-1](./data/region_info/ap-southeast-1.json) | Asia Pacific (Singapore) | 189 |
 | [ap-northeast-1](./data/region_info/ap-northeast-1.json) | Asia Pacific (Tokyo) | 188 |
@@ -28,8 +28,8 @@ This project is intended to provide a [human readable MARKDOWN](https://github.c
 | [us-gov-west-1](./data/region_info/us-gov-west-1.json) | AWS GovCloud (US-West) | 159 |
 | [af-south-1](./data/region_info/af-south-1.json) | Africa (Cape Town) | 154 |
 | [eu-south-1](./data/region_info/eu-south-1.json) | Europe (Milan) | 151 |
-| [eu-south-2](./data/region_info/eu-south-2.json) | Europe (Spain) | 150 |
 | [ap-southeast-5](./data/region_info/ap-southeast-5.json) | Asia Pacific (Malaysia) | 150 |
+| [eu-south-2](./data/region_info/eu-south-2.json) | Europe (Spain) | 150 |
 | [ap-east-1](./data/region_info/ap-east-1.json) | Asia Pacific (Hong Kong) | 149 |
 | [ap-northeast-3](./data/region_info/ap-northeast-3.json) | Asia Pacific (Osaka) | 147 |
 | [us-gov-east-1](./data/region_info/us-gov-east-1.json) | AWS GovCloud (US-East) | 147 |
@@ -37,11 +37,11 @@ This project is intended to provide a [human readable MARKDOWN](https://github.c
 | [me-central-1](./data/region_info/me-central-1.json) | Middle East (UAE) | 144 |
 | [il-central-1](./data/region_info/il-central-1.json) | Israel (Tel Aviv) | 141 |
 | [ap-south-2](./data/region_info/ap-south-2.json) | Asia Pacific (Hyderabad) | 139 |
+| [eu-central-2](./data/region_info/eu-central-2.json) | Europe (Zurich) | 138 |
 | [ap-southeast-3](./data/region_info/ap-southeast-3.json) | Asia Pacific (Jakarta) | 138 |
 | [ap-southeast-4](./data/region_info/ap-southeast-4.json) | Asia Pacific (Melbourne) | 138 |
-| [eu-central-2](./data/region_info/eu-central-2.json) | Europe (Zurich) | 138 |
-| [ca-west-1](./data/region_info/ca-west-1.json) | Canada West (Calgary) | 131 |
 | [ap-southeast-7](./data/region_info/ap-southeast-7.json) | Asia Pacific (Thailand) | 131 |
+| [ca-west-1](./data/region_info/ca-west-1.json) | Canada West (Calgary) | 131 |
 | [mx-central-1](./data/region_info/mx-central-1.json) | Mexico (Central) | 121 |
 | [ap-southeast-6](./data/region_info/ap-southeast-6.json) | Asia Pacific (New Zealand) | 119 |
 | [ap-east-2](./data/region_info/ap-east-2.json) | Asia Pacific (Taipei) | 115 |
@@ -50,7 +50,7 @@ This project is intended to provide a [human readable MARKDOWN](https://github.c
 
 ### Number of Supported Services Per Region
 
-<img src='https://quickchart.io/chart/render/zf-aab8de00-a6de-4599-81a4-03ee6965708c'>
+<img src='https://quickchart.io/chart/render/zf-8a1efb93-6847-4078-bddb-e85fbc3e8820'>
 
 # Region and Service Table # 
 | Service | af-south-1 | ap-east-1 | ap-east-2 | ap-northeast-1 | ap-northeast-2 | ap-northeast-3 | ap-south-1 | ap-south-2 | ap-southeast-1 | ap-southeast-2 | ap-southeast-3 | ap-southeast-4 | ap-southeast-5 | ap-southeast-6 | ap-southeast-7 | ca-central-1 | ca-west-1 | eu-central-1 | eu-central-2 | eu-north-1 | eu-south-1 | eu-south-2 | eu-west-1 | eu-west-2 | eu-west-3 | eusc-de-east-1 | il-central-1 | me-central-1 | me-south-1 | mx-central-1 | sa-east-1 | us-east-1 | us-east-2 | us-gov-east-1 | us-gov-west-1 | us-west-1 | us-west-2 |
