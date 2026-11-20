@@ -1,6 +1,6 @@
 {
   "af-south-1": {
-    "count": 158,
+    "count": 157,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -103,7 +103,6 @@
       "AWS License Manager",
       "AWS Managed Services (AMS)",
       "AWS Network Firewall",
-      "AWS Network Security Manager",
       "AWS Organizations",
       "AWS Outposts",
       "AWS Parallel Computing Service (PCS)",
@@ -1178,7 +1177,7 @@
     ]
   },
   "ap-south-2": {
-    "count": 144,
+    "count": 143,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -1276,7 +1275,6 @@
       "AWS License Manager",
       "AWS Managed Services (AMS)",
       "AWS Network Firewall",
-      "AWS Network Security Manager",
       "AWS Organizations",
       "AWS Outposts",
       "AWS Parallel Computing Service (PCS)",
@@ -2173,7 +2171,7 @@
     ]
   },
   "ap-southeast-6": {
-    "count": 126,
+    "count": 125,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -2265,7 +2263,6 @@
       "AWS Lambda",
       "AWS License Manager",
       "AWS Network Firewall",
-      "AWS Network Security Manager",
       "AWS Organizations",
       "AWS Outposts",
       "AWS Parallel Computing Service (PCS)",
@@ -2442,7 +2439,7 @@
     ]
   },
   "ca-central-1": {
-    "count": 188,
+    "count": 187,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -2552,7 +2549,6 @@
       "AWS License Manager",
       "AWS Managed Services (AMS)",
       "AWS Network Firewall",
-      "AWS Network Security Manager",
       "AWS Organizations",
       "AWS Outposts",
       "AWS Parallel Computing Service (PCS)",
@@ -4008,7 +4004,7 @@
     ]
   },
   "eu-west-3": {
-    "count": 174,
+    "count": 173,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -4114,7 +4110,6 @@
       "AWS License Manager",
       "AWS Managed Services (AMS)",
       "AWS Network Firewall",
-      "AWS Network Security Manager",
       "AWS Organizations",
       "AWS Outposts",
       "AWS Parallel Computing Service (PCS)",
@@ -4753,7 +4748,7 @@
     ]
   },
   "mx-central-1": {
-    "count": 126,
+    "count": 125,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -4843,7 +4838,6 @@
       "AWS Lambda",
       "AWS License Manager",
       "AWS Network Firewall",
-      "AWS Network Security Manager",
       "AWS Organizations",
       "AWS Outposts",
       "AWS Private Certificate Authority",
@@ -4884,7 +4878,7 @@
     ]
   },
   "sa-east-1": {
-    "count": 172,
+    "count": 171,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -4989,7 +4983,6 @@
       "AWS License Manager",
       "AWS Managed Services (AMS)",
       "AWS Network Firewall",
-      "AWS Network Security Manager",
       "AWS Organizations",
       "AWS Outposts",
       "AWS Parallel Computing Service (PCS)",

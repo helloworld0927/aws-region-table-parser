@@ -1,5 +1,5 @@
 {
-  "count": 144,
+  "count": 143,
   "serviceNames": [
     "AD Connector",
     "Amazon API Gateway",
@@ -97,7 +97,6 @@
     "AWS License Manager",
     "AWS Managed Services (AMS)",
     "AWS Network Firewall",
-    "AWS Network Security Manager",
     "AWS Organizations",
     "AWS Outposts",
     "AWS Parallel Computing Service (PCS)",

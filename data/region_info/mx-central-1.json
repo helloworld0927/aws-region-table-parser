@@ -1,5 +1,5 @@
 {
-  "count": 126,
+  "count": 125,
   "serviceNames": [
     "AD Connector",
     "Amazon API Gateway",
@@ -89,7 +89,6 @@
     "AWS Lambda",
     "AWS License Manager",
     "AWS Network Firewall",
-    "AWS Network Security Manager",
     "AWS Organizations",
     "AWS Outposts",
     "AWS Private Certificate Authority",
