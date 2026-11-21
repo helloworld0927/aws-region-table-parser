@@ -1,5 +1,5 @@
 {
-  "count": 171,
+  "count": 172,
   "serviceNames": [
     "AD Connector",
     "Amazon API Gateway",
@@ -104,6 +104,7 @@
     "AWS License Manager",
     "AWS Managed Services (AMS)",
     "AWS Network Firewall",
+    "AWS Network Security Manager",
     "AWS Organizations",
     "AWS Outposts",
     "AWS Parallel Computing Service (PCS)",
@@ -168,9 +169,9 @@
     "AWS Service Catalog",
     "AWS Verified Access",
     "Amazon AppFlow",
-    "Amazon Quick",
     "Amazon WorkSpaces",
     "Amazon WorkSpaces Applications",
-    "AWS End User Messaging"
+    "AWS End User Messaging",
+    "AWS Quick"
   ]
 }

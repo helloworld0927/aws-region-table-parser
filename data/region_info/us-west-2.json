@@ -192,10 +192,10 @@
     "Amazon AppFlow",
     "Amazon Connect",
     "Amazon Q Business",
-    "Amazon Quick",
     "Amazon WorkSpaces",
     "Amazon WorkSpaces Applications",
     "AWS B2B Data Interchange",
-    "AWS End User Messaging"
+    "AWS End User Messaging",
+    "AWS Quick"
   ]
 }

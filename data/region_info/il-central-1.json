@@ -143,9 +143,9 @@
     "AWS IoT Device Management",
     "AWS Service Catalog",
     "AWS Verified Access",
-    "Amazon Quick",
     "Amazon WorkSpaces",
     "Amazon WorkSpaces Applications",
-    "AWS End User Messaging"
+    "AWS End User Messaging",
+    "AWS Quick"
   ]
 }

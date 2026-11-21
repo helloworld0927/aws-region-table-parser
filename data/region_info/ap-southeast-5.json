@@ -150,10 +150,10 @@
     "AWS IoT Device Defender",
     "AWS IoT Device Management",
     "AWS IoT Greengrass",
-    "Amazon Quick",
     "Amazon WorkSpaces",
     "Amazon WorkSpaces Applications",
     "AWS End User Messaging",
+    "AWS Quick",
     "AWS Wickr"
   ]
 }

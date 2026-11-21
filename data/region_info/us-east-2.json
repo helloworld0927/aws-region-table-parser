@@ -185,10 +185,10 @@
     "AWS Service Catalog",
     "AWS Verified Access",
     "Amazon AppFlow",
-    "Amazon Quick",
     "Amazon WorkSpaces",
     "Amazon WorkSpaces Applications",
     "AWS B2B Data Interchange",
-    "AWS End User Messaging"
+    "AWS End User Messaging",
+    "AWS Quick"
   ]
 }
