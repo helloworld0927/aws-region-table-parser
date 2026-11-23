@@ -4187,7 +4187,7 @@
     ]
   },
   "eusc-de-east-1": {
-    "count": 112,
+    "count": 113,
     "serviceNames": [
       "AD Connector",
       "Amazon API Gateway",
@@ -4197,6 +4197,7 @@
       "Amazon Aurora MySQL",
       "Amazon Aurora PostgreSQL",
       "Amazon Bedrock",
+      "Amazon CloudFront",
       "Amazon CloudWatch",
       "Amazon CloudWatch Logs",
       "Amazon Cognito",
